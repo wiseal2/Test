@@ -1,0 +1,11 @@
+1.react(如果需要)
+3.webpack
+4.高性能javascript
+5.VUEX
+6.算法
+7.ES6
+9.git
+10.react
+11.小程序
+16.proxy
+17.nginx(可选)
