@@ -1,11 +1,11 @@
-1.react(Èç¹ûĞèÒª)
+1.react(å¦‚æœéœ€è¦)
 3.webpack
-4.¸ßĞÔÄÜjavascript
+4.é«˜æ€§èƒ½javascript
 5.VUEX
-6.Ëã·¨
+6.ç®—æ³•
 7.ES6
-9.git
+9.git(ing)
 10.react
-11.Ğ¡³ÌĞò
+11.å°ç¨‹åº
 16.proxy
-17.nginx(¿ÉÑ¡)
+17.nginx(å¯é€‰)
